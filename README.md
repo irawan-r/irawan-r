@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hello I'm Roy 
+Currently developing personal project focused on Android using Kotlin
+👯 I’m looking to collaborate on projects!
+🌱 I’m currently learning
 
 <!--
 **irawan-r/irawan-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
