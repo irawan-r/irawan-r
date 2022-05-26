@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello I'm Roy 
+### Hi folks! 👋
+I'm Roy 
 - Currently developing personal project focused on Android using Kotlin
 - 👯 I’m looking to collaborate on projects!
 - 🌱 I’m currently learning
